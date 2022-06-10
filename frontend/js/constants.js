@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the SMILEYs NFT PROJECT";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'SMILEYs NFT Project are decentralized digital art pieces and is your token to OASIS METAVERSE SPORTS BAR';
+const welcome_p = 'SMILEYs NFT Project are decentralized digital art collection';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
