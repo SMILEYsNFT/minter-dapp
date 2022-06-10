@@ -1,9 +1,9 @@
 const contractAddress = "0x8927bd20D7b04e22Ae70C7be554343ab1a69EE90"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the SMILEYs NFT Project!!";
+const welcome_h1 = "Welcome to the SMILEYs NFT PROJECT";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'SMILEYs NFT Project is a decentralized,';
+const welcome_p = 'SMILEYs NFT Project are decentralized digital art pieces and is your token to OASIS METAVERSE SPORTS BAR';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
